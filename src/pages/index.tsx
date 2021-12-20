@@ -1,5 +1,11 @@
+import { Box } from "theme-ui"
+
 const Homepage = () => {
-  return null
+  return (
+    <Box>
+      
+    </Box>
+  )
 }
 
 export default Homepage
